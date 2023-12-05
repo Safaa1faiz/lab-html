@@ -13,8 +13,7 @@ Créer une page HTML qui explore en détail les changements climatiques. Utilise
 
 ## Référence:
 
-1. 
-**[https://wicg.github.io/scroll-to-text-fragment/](https://wicg.github.io/scroll-to-text-fragment/)**
+1. **[https://wicg.github.io/scroll-to-text-fragment/](https://wicg.github.io/scroll-to-text-fragment/)**
 
 
 2. Pour plus d'informations sur la syntaxe des liens [URL Fragment Text Directives](https://wicg.github.io/scroll-to-text-fragment/).
